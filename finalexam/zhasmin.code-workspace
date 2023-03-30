@@ -1,0 +1,159 @@
+{
+	"folders": [
+		{
+			"name": "zhasmin",
+			"path": "../zhasmin"
+		},
+		{
+			"name": "lab 7 recursion",
+			"path": "../lab 7 recursion"
+		},
+		{
+			"name": "newcpp",
+			"path": "../newcpp"
+		},
+		{
+			"name": "difficult",
+			"path": "../difficult"
+		},
+		{
+			"name": "labinthepast",
+			"path": "../labinthepast"
+		},
+		{
+			"name": "lab work 8",
+			"path": "../lab work 8"
+		},
+		{
+			"name": "mypython",
+			"path": "../mypython"
+		},
+		{
+			"name": "set",
+			"path": "../set"
+		},
+		{
+			"name": "map",
+			"path": "../map"
+		},
+		{
+			"name": "upsolvingforq3",
+			"path": "../upsolvingforq3"
+		},
+		{
+			"name": "finallexam",
+			"path": "../finallexam"
+		},
+		{
+			"name": "html",
+			"path": "../html"
+		},
+		{
+			"name": "stack",
+			"path": "../stack"
+		},
+		{
+			"name": "labwork10",
+			"path": "../labwork10"
+		},
+		{
+			"name": "algorithm and structer",
+			"path": "../algorithm and structer"
+		},
+		{
+			"name": "lastlecutre",
+			"path": "../lastlecutre"
+		},
+		{
+			"name": "labwork11",
+			"path": "../labwork11"
+		},
+		{
+			"name": "informatics",
+			"path": "../informatics"
+		},
+		{
+			"name": "finalexam",
+			"path": "."
+		}
+	],
+	"settings": {
+		"problems.autoReveal": true,
+		"problems.showCurrentInStatus": true,
+		"problems.defaultViewMode": "table",
+		"files.associations": {
+			"array": "cpp",
+			"atomic": "cpp",
+			"*.tcc": "cpp",
+			"bitset": "cpp",
+			"cctype": "cpp",
+			"cfenv": "cpp",
+			"chrono": "cpp",
+			"cinttypes": "cpp",
+			"clocale": "cpp",
+			"cmath": "cpp",
+			"codecvt": "cpp",
+			"complex": "cpp",
+			"condition_variable": "cpp",
+			"csetjmp": "cpp",
+			"csignal": "cpp",
+			"cstdarg": "cpp",
+			"cstddef": "cpp",
+			"cstdint": "cpp",
+			"cstdio": "cpp",
+			"cstdlib": "cpp",
+			"cstring": "cpp",
+			"ctime": "cpp",
+			"cuchar": "cpp",
+			"cwchar": "cpp",
+			"cwctype": "cpp",
+			"deque": "cpp",
+			"forward_list": "cpp",
+			"list": "cpp",
+			"unordered_map": "cpp",
+			"unordered_set": "cpp",
+			"vector": "cpp",
+			"exception": "cpp",
+			"algorithm": "cpp",
+			"functional": "cpp",
+			"iterator": "cpp",
+			"map": "cpp",
+			"memory": "cpp",
+			"memory_resource": "cpp",
+			"numeric": "cpp",
+			"random": "cpp",
+			"ratio": "cpp",
+			"regex": "cpp",
+			"set": "cpp",
+			"string": "cpp",
+			"system_error": "cpp",
+			"tuple": "cpp",
+			"type_traits": "cpp",
+			"utility": "cpp",
+			"fstream": "cpp",
+			"future": "cpp",
+			"initializer_list": "cpp",
+			"iomanip": "cpp",
+			"iosfwd": "cpp",
+			"iostream": "cpp",
+			"istream": "cpp",
+			"limits": "cpp",
+			"mutex": "cpp",
+			"new": "cpp",
+			"ostream": "cpp",
+			"scoped_allocator": "cpp",
+			"shared_mutex": "cpp",
+			"sstream": "cpp",
+			"stdexcept": "cpp",
+			"streambuf": "cpp",
+			"thread": "cpp",
+			"typeindex": "cpp",
+			"typeinfo": "cpp",
+			"valarray": "cpp",
+			"*.idl": "cpp"
+		},
+		"workbench.settings.enableNaturalLanguageSearch": false,
+		"workbench.settings.openDefaultKeybindings": false,
+		"workbench.settings.editor": "ui"
+	}
+}
