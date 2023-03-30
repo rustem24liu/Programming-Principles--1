@@ -1,1 +1,1 @@
-#repo for Programming Principles 1 (KBTU)
+# repo for Programming Principles 1 (KBTU)
